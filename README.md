@@ -9,7 +9,7 @@ Factors Affecting Car sales Volume between 2019 and 2020
 •	What factors explain changes in car sales?
 •	How are certain factors, such as Covid-19, affecting automobile brands?
 •	Are interest rates (bank discounts) affecting the volume of car sales?
-•	Did all automobile segments change the same – luxury, mid-range, and economy vehicles?
+•	Did all automobile segments change the same – ultra luxury, luxury, mid-range, and economy vehicles?
 •	Is there a correlation between car sales and stock price?
 •	Do consumer sentiments play a part in car sales? If so, how much?
 
@@ -49,6 +49,7 @@ https://github.com/danawoodruff/carsales/blob/main/Images/UltraLuxury%20AG%20Ind
     4.	Datasets
  	The following are our references that we will use to analyze our data.
 •	https://www.truecar.com/prices-new
+•	https://www.goodcarbadcar.net/
 •	https://global.toyota/en/ir/library/sec/
 •	https://www.fcagroup.com/enUS/investors/financial_regulatory/Pages/latest_financial_results.aspx
 •	https://www.treasury.gov/resource-center/datachartcenter/interestrates/Pages/TextView.aspx?data=billRatesYear&year=2020
