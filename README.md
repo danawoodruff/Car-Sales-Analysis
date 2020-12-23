@@ -2,10 +2,10 @@ TEAM 6
 Factors Affecting Car sales Volume between 2019 and 2020
 12/12/20
 
-1.	Project Background and Description
+    1.	Project Background and Description
  	Our group will explore and analyze the critical factors such as Covid-19, unemployment, interest rates, and the stock market regarding car sales volume changes.  We will also analyze automobile brands as it pertains to their standing in the stock market.
 
-2.	The questions below will be explored:
+    2.	The questions below will be explored:
 •	What factors explain changes in car sales?
 •	How are certain factors, such as Covid-19, affecting automobile brands?
 •	Are interest rates (bank discounts) affecting the volume of car sales?
@@ -13,7 +13,7 @@ Factors Affecting Car sales Volume between 2019 and 2020
 •	Is there a correlation between car sales and stock price?
 •	Do consumer sentiments play a part in car sales? If so, how much?
 
-3.	Data Visualizations
+    3.	Data Visualizations
  	
 •	Bar chart for the volume of car sales by brand
 •	Bar chart for price segment car sales (average price per brand)
@@ -46,7 +46,7 @@ https://github.com/danawoodruff/carsales/blob/main/Images/UltraLuxury%20AG%20Ind
 
 
 
-4.	Datasets
+    4.	Datasets
  	The following are our references that we will use to analyze our data.
 •	https://www.truecar.com/prices-new
 •	https://global.toyota/en/ir/library/sec/
@@ -57,3 +57,6 @@ https://github.com/danawoodruff/carsales/blob/main/Images/UltraLuxury%20AG%20Ind
 •	https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm
 •	https://www.volkswagenag.com/presence/investorrelation/publications/interimreports/2020/Q3_2020_e.pdf
 •	https://www.yahoofinance.com
+
+
+    5. PowerPoint
