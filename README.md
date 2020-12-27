@@ -1,53 +1,29 @@
-.TEAM 6
+TEAM 6
 Factors Affecting Car sales Volume between 2019 and 2020
-12/12/20
 
-    1.	Project Background and Description
- 	Our group will explore and analyze the critical factors such as Covid-19, unemployment, interest rates, and the stock market regarding car sales volume changes.  We will also analyze automobile brands as it pertains to their standing in the stock market.
+Data Organization:
+Project data is separated into four folders: "COVID_data", "Govt_Data", "CAR_sales_data", and "Stock_Data". 
 
-    2.	The questions below will be explored:
-•	What factors explain changes in car sales?
-•	How are certain factors, such as Covid-19, affecting automobile brands?
-•	Are interest rates (bank discounts) affecting the volume of car sales?
-•	Did all automobile segments change the same – ultra luxury, luxury, mid-range, and economy vehicles?
-•	Is there a correlation between car sales and stock price?
-•	Do consumer sentiments play a part in car sales? If so, how much?
+Code organization:
+"Working_Notebooks" is a folder containing the individual workbooks of team members. These notebooks were merged into a file named "Working_Master".
 
-    3.	Data Visualizations
- 	
-•	Bar chart for the volume of car sales by brand
-•	Bar chart for price segment car sales (average price per brand)
-•	Line chart for the volume of car sales
+Plot formatting changes were made in the Working_Master along with minor edits. The images from the plots were saved in a folder named "Images".
 
-•	Line chart for Covid-19 cases
-•	Scatter plot for Covid-19 cases per state
+The "Working_Master" was copied as "Master_Notebook".  Unused plots and code were culled.
 
-•	Line plot for displaying interest rates
-•	Line plot for displaying unemployment rates
-•	Line plot for displaying consumer sentiment rates
+Project Notes:
+• COVID trend, Interest rate trend, Unemployment trend, and Consumer Sentiment trend were each visualized to easily observe which factors explain the change in consumer behavior towards car sales.  COVID, as the precipitating event, influenced each factor and effect examined.
 
-•	The team created weighted average indexes of the targeted twenty-one auto groups to compare to overall S&P 500 performance and to one another.  The four indexes' performance differed from one another and from the S&P 500.
+• The team observed the best and worst performances of the targeted forty auto brands car sales from 2019 and 2020.
 
-https://github.com/danawoodruff/carsales/blob/main/Images/S%26P%20Price%20Change.png
+• Total car sales trend was compared to the Consumer Sentiment trendline.
 
-https://github.com/danawoodruff/carsales/blob/main/Images/Economy%20AG%20Index%20Stock%20Price%20Change.png
+• The team created weighted average indexes of the targeted twenty-one auto groups to compare to overall S&P 500 performance and to one another pre- and post- COVID.  The four indexes' performance differed from one another and from the S&P 500.
 
-https://github.com/danawoodruff/carsales/blob/main/Images/MidRange%20AG%20Index%20Stock%20Price%20Change.png
+• The indexes were compared to the Consumer Sentiment trendline.
 
-https://github.com/danawoodruff/carsales/blob/main/Images/Luxury%20AG%20Index%20Stock%20Price%20Change.png
-
-https://github.com/danawoodruff/carsales/blob/main/Images/UltraLuxury%20AG%20Index%20Stock%20Price%20Change.png
-
-
-
-
-
-
-
-
-
-    4.	Datasets
- 	The following are our references that we will use to analyze our data.
+Datasets
+ 	The following are our references that were used to analyze our data.
 •	https://www.truecar.com/prices-new
 •	https://www.goodcarbadcar.net/
 •	https://global.toyota/en/ir/library/sec/
@@ -60,4 +36,4 @@ https://github.com/danawoodruff/carsales/blob/main/Images/UltraLuxury%20AG%20Ind
 •	https://www.yahoofinance.com
 
 
-    5. PowerPoint
+    
