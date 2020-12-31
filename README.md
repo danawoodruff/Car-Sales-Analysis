@@ -1,6 +1,7 @@
 TEAM 6
 Factors Affecting Car sales Volume between 2019 and 2020
    https://github.com/danawoodruff/carsales/blob/main/2020_Year_Of_Reckoning.pptx
+
 Data Organization:
 Project data is separated into four folders: "COVID_data", "Govt_Data", "CAR_sales_data", and "Stock_Data". 
 
