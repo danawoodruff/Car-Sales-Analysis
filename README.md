@@ -16,23 +16,23 @@ Project Notes:
 • COVID trend, Interest rate trend, Unemployment trend, and Consumer Sentiment trend were each visualized to easily observe which factors explain the change in consumer behavior towards car sales.  COVID, as the precipitating event, influenced each factor and effect examined.
    ![Image of COVID](https://github.com/danawoodruff/carsales/blob/main/Images/covid_st_barplot.png)
 
-   https://github.com/danawoodruff/carsales/blob/main/Images/Interest%20Rates.png
+   ![2](https://github.com/danawoodruff/carsales/blob/main/Images/Interest%20Rates.png)
 
-   https://github.com/danawoodruff/carsales/blob/main/Images/Unemployment_Rate.png
+   ![3](https://github.com/danawoodruff/carsales/blob/main/Images/Unemployment_Rate.png)
 
-   https://github.com/danawoodruff/carsales/blob/main/Images/Consumer_Sentiment.png
+   ![4](https://github.com/danawoodruff/carsales/blob/main/Images/Consumer_Sentiment.png)
 
 • The team observed the best and worst performances of the targeted forty auto brands car sales from 2019 and 2020.
-   https://github.com/danawoodruff/carsales/blob/main/Images/Brand%20Sales%20Change.png
+   ![5](https://github.com/danawoodruff/carsales/blob/main/Images/Brand%20Sales%20Change.png)
 
 • Total car sales trend was compared to the Consumer Sentiment trendline.
-   https://github.com/danawoodruff/carsales/blob/main/Images/Sales%20and%20Sentiment.png
+   ![6](https://github.com/danawoodruff/carsales/blob/main/Images/Sales%20and%20Sentiment.png)
 
 • The team created weighted average indexes of the targeted twenty-one auto groups to compare to overall S&P 500 performance and to one another pre- and post- COVID.  The four indexes' performance differed from one another and from the S&P 500.
-   https://github.com/danawoodruff/carsales/blob/main/Images/S%26P%20and%20Segment%20Trend%20Comparison.png
+   ![7](https://github.com/danawoodruff/carsales/blob/main/Images/S%26P%20and%20Segment%20Trend%20Comparison.png)
 
 • The indexes were compared to the Consumer Sentiment trendline.
-   https://github.com/danawoodruff/carsales/blob/main/Images/Consumer%20and%20Segment%20Trend%20Comparison.png
+   ![8](https://github.com/danawoodruff/carsales/blob/main/Images/Consumer%20and%20Segment%20Trend%20Comparison.png)
    
 Datasets
  	The following are our references that were used to analyze our data.
