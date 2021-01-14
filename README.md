@@ -14,7 +14,7 @@ The "Working_Master" was copied as "Master_Notebook".  Unused plots and code wer
 
 Project Notes:
 • COVID trend, Interest rate trend, Unemployment trend, and Consumer Sentiment trend were each visualized to easily observe which factors explain the change in consumer behavior towards car sales.  COVID, as the precipitating event, influenced each factor and effect examined.
-   https://github.com/danawoodruff/carsales/blob/main/Images/covid_st_barplot.png
+   ![Image of COVID](https://github.com/danawoodruff/carsales/blob/main/Images/covid_st_barplot.png)
 
    https://github.com/danawoodruff/carsales/blob/main/Images/Interest%20Rates.png
 
