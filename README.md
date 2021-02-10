@@ -12,7 +12,7 @@ Plot formatting changes were made in the Working_Master along with minor edits. 
 
 The "Working_Master" was copied as "Master_Notebook".  Unused plots and code were culled.<br>
 
-H3>Project Notes:<h3><br>
+<h3>Project Notes:</h3><br>
 • COVID trend, Interest rate trend, Unemployment trend, and Consumer Sentiment trend were each visualized to easily observe which factors explain the change in consumer behavior towards car sales.  COVID, as the precipitating event, influenced each factor and effect examined.
    ![Image of COVID](https://github.com/danawoodruff/carsales/blob/main/Images/covid_st_barplot.png)
 
@@ -33,7 +33,7 @@ H3>Project Notes:<h3><br>
 <br>
 • The indexes were compared to the Consumer Sentiment trendline.
    ![8](https://github.com/danawoodruff/carsales/blob/main/Images/Consumer%20and%20Segment%20Trend%20Comparison.png)
- <br>  
+<br>  
 <h3>Datasets:</h3>
  	The following are our references that were used to analyze our data.<br>
 •	https://www.truecar.com/prices-new<br>
