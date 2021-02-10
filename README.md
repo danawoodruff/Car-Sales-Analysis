@@ -14,22 +14,22 @@ The "Working_Master" was copied as "Master_Notebook".  Unused plots and code wer
 <br>
 <h3>Project Notes:</h3><br>
 • COVID trend, Interest rate trend, Unemployment trend, and Consumer Sentiment trend were each visualized to easily observe which factors explain the change in consumer behavior towards car sales.  COVID, as the precipitating event, influenced each factor and effect examined.<br>
-<p align="center"><src="Images/covid_st_barplot.png"></p>
+![1](https://github.com/danawoodruff/Car-Sales-Analysis/blob/main/Images/covid_st_barplot.png")
 
-<p align="center">    ![2](https://github.com/danawoodruff/carsales/blob/main/Images/Interest%20Rates.png)</p>
+![2](https://github.com/danawoodruff/carsales/blob/main/Images/Interest%20Rates.png)
 
-<p align="center">    ![3](https://github.com/danawoodruff/carsales/blob/main/Images/Unemployment_Rate.png)</p>
+![3](https://github.com/danawoodruff/carsales/blob/main/Images/Unemployment_Rate.png)
 
-<p align="center">    ![4](https://github.com/danawoodruff/carsales/blob/main/Images/Consumer_Sentiment.png)</p>
+![4](https://github.com/danawoodruff/carsales/blob/main/Images/Consumer_Sentiment.png)
 <br>
 • The team observed the best and worst performances of the targeted forty auto brands car sales from 2019 and 2020.<br>
-<p align="center">    ![5](https://github.com/danawoodruff/carsales/blob/main/Images/Brand%20Sales%20Change.png)</p>
+![5](https://github.com/danawoodruff/carsales/blob/main/Images/Brand%20Sales%20Change.png)</p>
 <br>
 • Total car sales trend was compared to the Consumer Sentiment trendline.<br>
-<p align="center">    ![6](https://github.com/danawoodruff/carsales/blob/main/Images/Sales%20and%20Sentiment.png)</p>
+![6](https://github.com/danawoodruff/carsales/blob/main/Images/Sales%20and%20Sentiment.png)
 <br>
 • The team created weighted average indexes of the targeted twenty-one auto groups to compare to overall S&P 500 performance and to one another pre- and post- COVID.  The four indexes' performance differed from one another and from the S&P 500.<br>
-<p align="center">    ![7](https://github.com/danawoodruff/carsales/blob/main/Images/S%26P%20and%20Segment%20Trend%20Comparison.png)</p>
+![7](https://github.com/danawoodruff/carsales/blob/main/Images/S%26P%20and%20Segment%20Trend%20Comparison.png)
 <br>
 • The indexes were compared to the Consumer Sentiment trendline.
    ![8](https://github.com/danawoodruff/carsales/blob/main/Images/Consumer%20and%20Segment%20Trend%20Comparison.png)
